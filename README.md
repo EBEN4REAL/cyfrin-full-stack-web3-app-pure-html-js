@@ -1,0 +1,3 @@
+Use the command below to spin up the anvil local Etheruem network node and run the already deployed contract
+
+`anvil --load-state fundme-anvil.json`
